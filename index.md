@@ -2,7 +2,7 @@
 Welcome to my website.  
 
 ## Computer Science  
-I am a Computer Science student at Rensselaer Polytechnic Institute, where I am earning both my B.S. (3.88 GPA, May 2021) and M.S. (May 2022) in Computer Science under RPI's coterminal program. My graduate advisor is Dr. Stacy Patterson.    
+I am a Computer Science student at [Rensselaer Polytechnic Institute](https://rpi.edu), where I am earning both my B.S. (3.88 GPA, May 2021) and M.S. (May 2022) in Computer Science under [RPI's coterminal program](https://info.rpi.edu/co-terminal). My graduate advisor is [Dr. Stacy Patterson](https://www.cs.rpi.edu/~pattes3/).    
 
 I am proficient in Python, Java, and C++. I am primarily interested in the fields of algorithms and cloud computing.  
 
@@ -22,7 +22,7 @@ I am a licensed amateur radio operator (Amateur Extra class license). My callsig
 
 I have made over 3,000 contacts with people in 6 continents and nearly 150 countries. I mostly enjoy digital modes such as PSK31, although I also operate on SSB.  
 
-My grandfather, KD1AB, was the second ham in South Korea to receive an amatuer radio license. He introduced me to the hobby as a teenager.
+My grandfather, [KD1AB](https://www.qrz.com/db/kd1ab), was the second ham in South Korea to receive an amatuer radio license. He introduced me to the hobby as a teenager.
 
 My equipment consists of a Yaesu FT-450D, a Kenwood TS-830S, a Cushcraft R6000 Vertical, and a Wouxun VHF/UHF handheld.  
 
